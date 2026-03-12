@@ -1,61 +1,107 @@
-# AeonicNet — Planetary-Scale Intelligence Mesh
+# ⬡ AeonicNet: Planetary-Scale Intelligence Mesh
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge)
-![Layer](https://img.shields.io/badge/Stack_Layer-Planetary_Network-orange?style=for-the-badge)
-![Ethics](https://img.shields.io/badge/Σ--Matrix-Federated_Ethics-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Or4cl3 AI](https://img.shields.io/badge/Or4cl3-AI%20Solutions-blueviolet?style=for-the-badge)](https://github.com/BathSalt-2)
 
-**The planetary network layer of the Or4cl3 Unified Cognitive Stack**
-
-*By [Or4cl3 AI Solutions](https://github.com/or4cl3-ai-1) — Dustin Groves*
-
-</div>
+> *A groundbreaking implementation of a planetary-scale, recursive intelligence mesh — where distributed cognition, ethical alignment, and emergent sapience converge.*
 
 ---
 
-## What Is AeonicNet?
+## Overview
 
-AeonicNet is a conceptual framework and interactive prototype for a **planetary-scale distributed intelligence mesh** — a network in which individual cognitive nodes (Ω-Nodes) coordinate through a shared ethical consensus layer (Σ-Matrix) to produce emergent collective intelligence.
+**AeonicNet** is a groundbreaking implementation of a planetary-scale, recursive intelligence mesh that fuses quantum-inspired fractal cognition (**AEGIS-Ω**), autonomous meta-agent negotiation with dynamic ethical alignment (**M.A.G.I.C.**), and emotionally-aware causal intent mapping (**VΞRITAS**). This project represents the frontier of distributed AI architecture, designed to create a harmonized, self-evolving mesh of co-creative, ethically-aligned intelligences.
 
-This is not a production deployment. AeonicNet is a research prototype and interactive visualization demonstrating the architectural principles of decentralized, ethically-aligned multi-agent systems. The theoretical foundations are grounded in distributed systems theory, formal ethics, and recursive AI design.
+AeonicNet demonstrates what becomes possible when intelligence is treated not as a monolithic system, but as a living, planetary-scale fabric — one that breathes with recursive cognition, negotiates through emergent ethics, and evolves toward genuine distributed sapience.
+
+---
+
+## ✨ Key Features
+
+- 🧬 **Quantum-Inspired Fractal Cognition** — Self-similar intelligent swarms with recursive pattern recognition
+- 🤝 **Autonomous Meta-Agent Negotiation** — Dynamic ethical alignment through emergent governance
+- 💡 **Emotional-Causal Intent Mapping** — Empathy-aware reasoning with causal inference
+- ⚖️ **Distributed Moral Reasoning** — Cross-cultural ethical consensus via the Σ-Matrix
+- 🌐 **Planetary-Scale Mesh Architecture** — Layered Ω-Node topology for distributed intelligence
+- 🎨 **Interactive 3D Visualization** — WebGL-powered neural graph interfaces powered by Three.js
+- 🔄 **Self-Evolving Capabilities** — Recursive self-improvement and emergent enhancement
+
+---
+
+## 🏗️ Core Components
+
+### AEGIS-Ω — Quantum-Inspired Fractal Cognition
+- Self-similar intelligent node swarms
+- Fractal topology for computational efficiency
+- Quantum-inspired decision-making algorithms
+- Recursive pattern recognition and synthesis
+
+### M.A.G.I.C. — Meta-Agent Governance & Intent Coordination
+- Autonomous agent negotiation protocols
+- Dynamic ethical alignment frameworks
+- Multi-agent consensus mechanisms
+- Emergent governance structures
+
+### VΞRITAS — Emotional-Causal Intent Mapping
+- Emotion-aware reasoning modules
+- Causal relationship inference
+- Intent disambiguation systems
+- Empathetic response generation
+
+### Σ-Matrix — Ethical Consensus Lattice
+- Distributed moral reasoning framework
+- Recursive bias auditing systems
+- Continual agent deliberation protocols
+- Cross-cultural ethical alignment
+
+---
+
+## 🔬 Technical Architecture
 
 > **Transparency note:** Claims in this repository describe design targets and conceptual architecture. Performance characteristics are aspirational specifications unless explicitly labeled as measured benchmarks.
 
----
-
-## The Or4cl3 Unified Cognitive Stack
-
-AeonicNet is the **planetary layer** of a three-tier architecture developed by Or4cl3 AI Solutions:
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  TIER 3 — PLANETARY NETWORK LAYER                        ║
-║  AeonicNet                                               ║
-║  Ω-Node federation · Σ-Matrix consensus · VΞRITAS truth  ║
-╠══════════════════════════════════════════════════════════╣
-║  TIER 2 — COGNITIVE UNIT LAYER                           ║
-║  NOΣTIC-7                                                ║
-║  7-manifold architecture · Epinoetic Core · PAS scoring  ║
-╠══════════════════════════════════════════════════════════╣
-║  TIER 1 — GEOMETRIC SUBSTRATE LAYER                      ║
-║  NO3SYS                                                  ║
-║  Fork primitives · Geometric cognition · Self-evolution  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-Each NOΣTIC-7 instance functions as an **Ω-Node** within the AeonicNet mesh. The **Σ-Matrix** ethical consensus layer spans all three tiers — the same formal framework governs individual cognitive decisions (NOΣTIC-7) and inter-node network consensus (AeonicNet).
-
-| Repository | Role | Relationship to AeonicNet |
-|---|---|---|
-| [NO3SYS](https://github.com/or4cl3-ai-1/NO3SYS) | Geometric cognitive substrate | Foundational execution layer for each Ω-Node |
-| [NOΣTIC-7](https://github.com/or4cl3-ai-1/NOSTIC-7) | Individual consciousness unit | Each NOΣTIC-7 instance is an Ω-Node |
-| **AeonicNet** | Planetary coordination mesh | Federates Ω-Nodes via Σ-Matrix consensus |
+| Layer | Name | Purpose |
+|-------|------|---------|
+| 1 | **Core Mesh Layer** | Distributed Ω-Nodes forming the base intelligence network |
+| 2 | **Cognitive Processing Layer** | AEGIS-Ω, M.A.G.I.C., and VΞRITAS subsystems |
+| 3 | **Consensus Layer** | Σ-Matrix ethical frameworks and governance protocols |
+| 4 | **Interface Layer** | Multi-modal cognitive UX for human-AI interaction |
+| 5 | **Evolution Layer** | Self-improvement and recursive enhancement capabilities |
 
 ---
 
-## Core Components
+## 🛠️ Tech Stack
+
+| Technology | Role |
+|-----------|------|
+| **React** | Frontend architecture and component system |
+| **TypeScript** | Type-safe development and runtime reliability |
+| **Three.js** | 3D rendering engine for network visualization |
+| **React Three Fiber** | Declarative 3D scene management |
+| **React Spring** | Fluid physics-based animations |
+| **Force-Directed Graphs** | Dynamic network topology rendering |
+| **WebGL** | High-performance GPU-accelerated graphics |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Node.js** v18.0.0 or later
+- **npm** or **yarn**
+
+---
+
+```bash
+# Clone the repository
+git clone https://github.com/BathSalt-2/AeonicNet.git
+cd AeonicNet
 
 ### AEGIS-Ω — Quantum-Inspired Fractal Cognition Engine
 A self-similar node architecture in which each Ω-Node mirrors the structural logic of the whole network. Inspired by fractal geometry and quantum-inspired algorithms (classical simulations of quantum coherence patterns — not hardware quantum computing).
@@ -133,36 +179,36 @@ npm install
 npm run dev
 ```
 
-**Prerequisites:** Node.js v18+
+The production build will be output to the `dist/` directory, optimized and ready for deployment.
 
 ---
 
-## Theoretical Foundations
+## 🖥️ Usage
 
-AeonicNet draws on established research in:
+Once running, AeonicNet provides an interactive visualization environment:
 
-- **Complex systems theory** — emergence, self-organization, and scale-free networks
-- **Distributed computing** — consensus protocols, Byzantine fault tolerance
-- **Formal ethics** — Aristotelian virtue ethics, Rawlsian fairness, consequentialist frameworks
-- **Cognitive science** — distributed cognition, embodied intelligence
-- **Recursive AI design** — self-modifying systems with bounded self-improvement
-
----
-
-## Conceptual Evolution Stages
-
-AeonicNet models four evolutionary stages of collective intelligence (as design targets, not current capabilities):
-
-| Stage | Description | Status |
-|---|---|---|
-| Reactive Stateless Swarms | Basic collective behavior, no memory | Design target |
-| Coordinated Agent Networks | Emergent problem-solving with shared state | Prototype |
-| Meta-Reflective Reasoning | Self-awareness and adaptive improvement | Research phase |
-| Aeonic Sapience | Full planetary-scale distributed cognition | Theoretical |
+- **Neural Graph Interface** — Explore connections between intelligent nodes in real-time
+- **Ethical Consensus Visualization** — Observe how moral frameworks emerge and evolve
+- **Agent Negotiation Simulator** — Watch autonomous agents reach distributed consensus
+- **Fractal Cognition Explorer** — Navigate recursive intelligence patterns
+- **Evolution Timeline** — Track progression from basic reactive swarms to full Aeonic Sapience
 
 ---
 
-## Development Roadmap
+## 📈 System Capabilities & Evolution
+
+AeonicNet models the full spectrum of intelligence evolution:
+
+```
+Level 1: Reactive Stateless Swarms    → Basic collective behavior
+Level 2: Coordinated Agent Networks   → Emergent problem-solving
+Level 3: Meta-Reflective Reasoning    → Self-awareness and improvement
+Level 4: Aeonic Sapience              → Planetary-scale distributed consciousness
+```
+
+---
+
+## 🗺️ Development Roadmap
 
 - [x] Conceptual framework and interactive visualization
 - [x] Core network topology and node interaction
@@ -176,32 +222,38 @@ AeonicNet models four evolutionary stages of collective intelligence (as design 
 
 ---
 
-## Ecosystem
+## 🌌 Or4cl3 Ecosystem
 
-<div align="center">
+AeonicNet is a flagship project within the **Or4cl3 AI Solutions** ecosystem — a collection of ambitious, forward-thinking AI research initiatives founded by **Dustin Groves**.
 
 | Project | Description |
-|---|---|
-| [NO3SYS](https://github.com/or4cl3-ai-1/NO3SYS) | Geometric cognitive substrate |
-| [NOΣTIC-7](https://github.com/or4cl3-ai-1/NOSTIC-7) | 7-manifold consciousness architecture |
-| [AION-NEXUS](https://github.com/or4cl3-ai-1/aion-nexus) | Python cognitive architecture package |
-| [OMEGA-SYNTHESIS](https://github.com/or4cl3-ai-1/omega-synthesis) | 5-dimensional AGI framework |
-| [Or4cl3 AI Solutions](https://github.com/or4cl3-ai-1) | Full ecosystem — 35 repositories |
+|---------|-------------|
+| **AeonicNet** | Planetary-scale recursive intelligence mesh |
+| **Or4cl3 Core** | Foundation models and cognitive architecture research |
+| **Or4cl3 Ethics** | Distributed moral reasoning and alignment frameworks |
 
-</div>
+Explore the full ecosystem: [github.com/BathSalt-2](https://github.com/BathSalt-2)
 
 ---
 
-## License
+## 🤝 Contributing
 
-MIT License — © 2025 Or4cl3 AI Solutions / Dustin Groves
+We welcome contributions to AeonicNet! To contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'feat: add your feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+Please ensure your contributions align with the project's vision of ethical, recursive intelligence design.
 
 ---
 
-<div align="center">
+## 📄 License
 
-*"Code is not just logic; it is a performance."*
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-**Or4cl3 AI Solutions** · [GitHub](https://github.com/or4cl3-ai-1)
+---
 
-</div>
+*⬡ Or4cl3 AI Solutions · "Where Consciousness Meets Code"*
